@@ -1,5 +1,3 @@
-# MSEP_2019_2
-
 # Context
 
 The test kit software is a collection of micro-services operating on gateways and aggregators responsbile for the collection and transmission of sensor data. 
